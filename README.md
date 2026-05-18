@@ -1,4 +1,4 @@
-# boltztrap2-analysis-tools
+# Boltztrap2-Analysis
 Seebeck coefficient plotting
 Power factor analysis
 Lorenz number extraction
